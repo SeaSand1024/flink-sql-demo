@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+source /etc/profile
 ## FLINK_HOMR is option
 #FLINK_HOME=../embedded-flink
 
